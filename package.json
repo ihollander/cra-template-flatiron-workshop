@@ -1,0 +1,25 @@
+{
+  "name": "cra-template-flatiron-workshop",
+  "version": "0.1.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "description": "The base template for Flatiron Workshops.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ihollander/cra-template-flatiron-workshop.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://github.com/ihollander/template-flatiron-workshop/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
