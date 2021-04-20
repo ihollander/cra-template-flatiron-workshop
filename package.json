@@ -1,6 +1,6 @@
 {
-  "name": "cra-template-flatiron-workshop",
-  "version": "0.1.0",
+  "name": "@ihollander/cra-template-flatiron-workshop",
+  "version": "0.0.1",
   "keywords": [
     "react",
     "create-react-app",
@@ -11,6 +11,7 @@
     "type": "git",
     "url": "https://github.com/ihollander/cra-template-flatiron-workshop.git"
   },
+  "author": "ihollander",
   "license": "MIT",
   "engines": {
     "node": ">=10"
